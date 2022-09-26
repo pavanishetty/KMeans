@@ -1,2 +1,2 @@
-# KMeans-
+# KMeans
 KMeans Implentation from scratch
